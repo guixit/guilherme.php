@@ -1,0 +1,8 @@
+{
+    "name": "biblioteca/gerar-pdf",
+    "description": "Sistema para gerar PDF com lista de livros.",
+    "require": {
+      "mpdf/mpdf": "^8.0"
+    }
+  }
+  
